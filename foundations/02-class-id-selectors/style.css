@@ -3,3 +3,8 @@ p {
     font-family: 'Verdana', 'DejaVus Sans', 'sans-serif';
 
 }
+
+div {
+    color: blue;
+    font-size: 36px;
+}
