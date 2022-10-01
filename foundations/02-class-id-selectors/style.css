@@ -1,10 +1,19 @@
-p {
+.odd {
     background-color: rgb(255, 113, 137);
-    font-family: 'Verdana', 'DejaVus Sans', 'sans-serif';
-
+    font-family: Verdana, 'DejaVus Sans', sans-serif;
 }
 
-div {
+.second-class {
+    font-size: 24px;
+}
+
+#id1 {
     color: blue;
     font-size: 36px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
